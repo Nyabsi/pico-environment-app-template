@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="SceneName_CustomEnvironment">Custom Environment</string>
-    <string name="linkedPackageName">com.pvr.custom</string>
+    <string name="linkedPackageName">com.pvr.CustomEnvironment</string>
     <string name="linkedUnlockKey" />
     <string name="linkedVersionIdentification" />
     <string name="sceneTag">CustomEnvironment</string>
