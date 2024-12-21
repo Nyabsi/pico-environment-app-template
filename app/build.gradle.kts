@@ -9,7 +9,7 @@ android {
     compileSdk = 30
 
     defaultConfig {
-        applicationId = "com.pvr.custom.scene"
+        applicationId = "com.pvr.CustomEnvironment.scene"
         minSdk = 26
         //noinspection ExpiredTargetSdkVersion
         targetSdk = 30
