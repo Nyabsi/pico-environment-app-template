@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application
+        android:allowBackup="false"
+        android:supportsRtl="true"
+        android:extractNativeLibs="false">
+        <meta-data
+            android:name="SceneTag"
+            android:value="@string/sceneTag"/>
+        <meta-data
+            android:name="sceneType"
+            android:value="@integer/sceneType"/>
+        <meta-data
+            android:name="linkedPackage"
+            android:value="@string/linkedPackageName"/>
+        <meta-data
+            android:name="linkedVersionIdentification"
+            android:value="@string/linkedVersionIdentification"/>
+        <meta-data
+            android:name="linkedUnlockKey"
+            android:value="@string/linkedUnlockKey"/>
+    </application>
+</manifest>
